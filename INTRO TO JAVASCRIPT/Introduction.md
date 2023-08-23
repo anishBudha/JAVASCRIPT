@@ -1,1 +1,11 @@
-%%%%
+- The programs in this language are called _scripts_.
+- They don’t need special preparation or compilation to run.
+- Special program called [the JavaScript engine](https://en.wikipedia.org/wiki/JavaScript_engine).
+- Different engines have different “codenames”. For example:
+	-  [V8](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)) – in Chrome, Opera and Edge.
+	-  [SpiderMonkey](https://en.wikipedia.org/wiki/SpiderMonkey) – in Firefox.
+	-  There are other codenames like “Chakra” for IE, “JavaScriptCore”, “Nitro” and “SquirrelFish” for Safari, etc.
+- Engine reads script -> converts into machine code -> machine code runs.
+- It does not provide low-level access to memory or the CPU, so it is called 'safe' programming language.
+- A page from `http://anysite.com` which a user has opened must not be able to access another browser tab with the URL `http://gmail.com`, for example, and steal information from there. This is called the “**Same Origin Policy**”. Though possible, it requires explicit agreement (expressed in HTTP headers) from the remote side. Once again, that’s a safety limitation.
+> https://javascript.info/intro#what-can-in-browser-javascript-do
