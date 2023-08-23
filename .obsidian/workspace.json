@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "INTRO TO JAVASCRIPT/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "INTRO TO JAVASCRIPT/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "INTRO TO JAVASCRIPT/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "INTRO TO JAVASCRIPT/Introduction.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63efe209e40da18",
+  "active": "720c901b9ff09ec8",
   "lastOpenFiles": [
-    "Introduction.md",
+    "JAVASCRIPT FUNDAMENTALS",
+    "INTRO TO JAVASCRIPT/Introduction.md",
     "INTRO TO JAVASCRIPT",
     "New Text Document.txt"
   ]
